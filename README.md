@@ -2,7 +2,7 @@
 
 This project builds and visualizes a **Knowledge Graph** of movies, directors, and genres using the Kaggle Movies Dataset, processed in Python with `pandas` and visualized with `networkx`.
 
-The project was developed and tested on **Google Colab**.
+The project was developed and tested on **Google Colab**. https://colab.research.google.com/drive/1Kp0fB5VcTfnefknErd8omrzohUlwOZeC?usp=sharing
 
 ---
 
