@@ -38,10 +38,15 @@ These files include metadata about movies, including:
 
 ## 📂 Project Structure
 📁 Movie_Knowledge_Graph/
+
 ├── credits.csv
+
 ├── Example.png
+
 ├── Movie_Knowledge_Graph.ipynb
+
 ├── movies_metadata.csv
+
 ├── README.md
 
 
